@@ -7,3 +7,4 @@
 - react
 - redux
 - API testing on Postman
+- React Icons
