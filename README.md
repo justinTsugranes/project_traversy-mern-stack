@@ -4,7 +4,11 @@
 
 - mongodb atlas
 - JWT authentication
+- bcryptjs
 - react
 - redux
 - API testing on Postman
 - React Icons
+- Concurrently - package that allows you to run front and backend simultaneously
+- axios
+- react-toastify
