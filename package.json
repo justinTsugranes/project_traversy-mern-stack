@@ -1,5 +1,5 @@
 {
-  "name": "Goal Setting App",
+  "name": "goal-setting-app",
   "version": "1.0.0",
   "description": "Goal setting app using MERN stack, JWT auth, and Heroku",
   "main": "server.js",

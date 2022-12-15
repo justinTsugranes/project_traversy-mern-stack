@@ -9,9 +9,9 @@
     <img src="frontend/src/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">justintsugranes.com</h3>
+<h3 align="center">Goal Setting App</h3>
 
-  <h1 align="center">Goal Setting MERN App</h1>
+  <p align="center">A MERN Stack app that includes Redux, Axios, and JWT Auth. Deployed through Heroku</p>
 
   <p align="center">
     <a href="https://github.com/justintsugranes/project_mern-goals-app"><strong>Explore the docs »</strong></a>
