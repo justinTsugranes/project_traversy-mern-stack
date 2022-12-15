@@ -12,3 +12,4 @@
 - Concurrently - package that allows you to run front and backend simultaneously
 - axios
 - react-toastify
+- heroku
